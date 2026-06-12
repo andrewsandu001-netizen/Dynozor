@@ -1,20 +1,21 @@
 
-Le bras est un project open source merci de comprendre si vous trouver des problemes
+Le bras est un project open source merci de comprendre si vous trouver des problemes d'ortographe ou des erreurs dans les pieces, etapes ou les 
 
 Pour les personnes intéressées qui veulent utiliser le tutoriel pour le faire à la maison, veuillez noter qu'ils peuvent être quelques problèmes au tutoriel.
-Donc, les étapes à suivre sont les suivantes et vous avez besoin des choses suivantes pour suivre le tutoriel.
+Donc, le materiel nessesaire est le suivants et vous aller avoir besoin des choses suivantes pour suivre le tutoriel.
 
 •	Une imprimante 3D
 •	1 a 2kg de pla
 •	Le software de blambu labs
 •	Des visses (A Specifier)
-•	Un microcontroleur
-•	Le software Arduino
+•	Un microcontroleur (ON VAS UTILISER UN ESP32)
+•	Le software Arduino (AVEC LE SETUP DEMANDE COMME LE DRIVEUR)
 •	Des roulements (dimensions en dessous)
 •	Un tournevis
 •	Des moteur chainees (pour ce project on a utilize des FEETHECH SC SERVO lien ci dessous)
 •	Moteur de 20kg ou plus de preference
 •	De la patience
+•	Un marteaux
 
 Les servos
 https://www.robot-maker.com/shop/moteurs-et-actionneurs/287-servomoteur-scs15-287.html
@@ -34,5 +35,15 @@ voici la listes des choses a imprimer et la quantite a imprimer
 •	Support du moteur principal après l’épaule ×1 
 
 Maintenant que vous avez les pieces vous pouver commencer a assemble ce lego
+Tous d'abord on vas appeler les roulements de 1 a 3 du plus grand au plus petit.
 
-(A COMPLETER ET AJJOUTER LES DATAILS POUR LES ROULEMENTS (2 roulements restants)ET VISSES)
+MERCI DE LIRE TOUTE L'ETAPE AVANT DE FAIRE L'ASSEMBLAGE ET PLACER LES ROULEMENT AVANT D'ASSEMBLER TOUT CAR IL EST PREVU DE NE PAS DESSASEMBLER ET DE TENIR POUR UN LONG MOMENT.
+AUSSI MERCI DE NE PAS TROP SERRER LES PIECES EN PLA ET SI LES PIECES ENTRE PAS ENTRE ELLES, ELLES RISQUE DE DEVOIR ETRE TAPPER PAR UN MARTEAUX, ON UTILISE CELA POUR UN PLUS LONGUE
+INTEGRITE MECANIQUE ET RESISTANCES DES EFFORTS.
+
+•	Insérez le roulement n°3 dans la petite roue dentée. 
+•	Ensuite, placez les deux roulements n°1 dans la base inférieure et la base supérieure. 
+•	Placez ensuite la grande roue dentée dans la base supérieure, puis utilisez un marteau pour tapoter suffisamment fort afin d’insérer correctement la partie de l’axe de rotation côté épaule. Cette pièce doit venir en appui sur le roulement de la base supérieure, de manière à former un ensemble solidement maintenu. 
+•	Après avoir réalisé l’étape précédente, positionnez la roue dentée avec le boîtier en alignant correctement les emplacements. Vissez ensuite le boîtier sur la structure et placez le moteur dans l’emplacement prévu à cet effet. Si le moteur ne s’insère pas correctement, vérifiez d’abord qu’il est bien aligné. Vous pouvez également choisir d’installer le moteur avant de mettre en place la base supérieure si cela vous semble plus pratique.
+
+(A COMPLETER ET AJOUTER LES DATAILS POUR LES ROULEMENTS (2 roulements restants)ET VISSES)
