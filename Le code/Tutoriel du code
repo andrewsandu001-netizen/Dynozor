@@ -5,8 +5,10 @@ Il faut installer aussi le driver du esp32 pour notre cas (si vous changer le mi
 Puis le driveur du moteur faudra etre installer aussi.
 ATTENTION: Il y a deux versions d'arduino la recente et l'ancienne.
 
+Pour la version recente voici les etapes a suivre; (Version la plus facile)
 
 
+Pour la version ancienne est differente; 
 
 
 A COMPLETER LES INDICATIONS ET EXPIQUER COMMENT INSTALLER LES DRIVEURS DES DIFFERENTS MODULES.
