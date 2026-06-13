@@ -1,1 +1,13 @@
 
+Il faut tout d'abord avoir installe le logiciel arduino puis il faut ouvrir le fichier code avec arduino.
+
+Il faut installer aussi le driver du esp32 pour notre cas (si vous changer le microcontroleur alors faudra le driver du module utilise)
+Puis le driveur du moteur faudra etre installer aussi.
+ATTENTION: Il y a deux versions d'arduino la recente et l'ancienne.
+
+
+
+
+
+A COMPLETER LES INDICATIONS ET EXPIQUER COMMENT INSTALLER LES DRIVEURS DES DIFFERENTS MODULES.
+ET FINNIR LES INDICATION ET FAIRE LE TROUBLE-SHOOTING POUR LES PERSONNES.
