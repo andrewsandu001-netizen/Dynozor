@@ -5,7 +5,7 @@ Pour les personnes intéressées qui veulent utiliser le tutoriel pour le faire 
 Donc, le materiel nessesaire est le suivants et vous aller avoir besoin des choses suivantes pour suivre le tutoriel.
 
 •	Une imprimante 3D
-•	1 a 2kg de pla
+•	1 a 3kg de pla
 •	Le software de blambu labs
 •	Des visses (A Specifier, il ya deux types de vises, visses plastique et visse pouur le matal)
 •	Un microcontroleur (ON VAS UTILISER UN ESP32)
@@ -51,9 +51,9 @@ d’installer le moteur avant de mettre en place la base supérieure si cela vou
 •	Il faut visser le support d’aluminium qui est fourni avec le moteur (sauf si vous l’avez acheté autre pars).
 •	Puis mettez le moteur dans le support du moteur principal après l’épaule puis mettre la tête d’aluminium sur le moteur et puis mettre le moteur et la pièce dans le support
 d’alu et visser le tout en place avec une visse de métal pour le moteur et de 2 a 4 visses pour la piece qui connecte la tete du moteur a la piece en alu fourni avec le moteur.
-
+• Puis sur
 
 (A COMPLETER ET AJOUTER LES DATAILS POUR LES ROULEMENTS (2 roulements restants)LES VISSES, ET UNE PHOTO POUR MIEUX EXPLIQUER)
 
 
-Apres avoir fini ce tutoriel merci d'aller sur le tutoriel du code pour finir le bras. 
+Apres avoir fini ce tutoriel merci d'aller sur le tutoriel du code pour finir le bras. Si vous voulez. 
