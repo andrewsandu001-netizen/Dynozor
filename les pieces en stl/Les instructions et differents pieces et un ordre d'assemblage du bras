@@ -1,69 +1,67 @@
+Le bras est un projet open source. Merci de comprendre si vous trouvez des problèmes d'orthographe ou des erreurs dans les pièces, les étapes ou les instructions.
 
-Le bras est un project open source merci de comprendre si vous trouver des problemes d'ortographe ou des erreurs dans les pieces, etapes ou les 
+Pour les personnes intéressées qui veulent utiliser le tutoriel pour le faire à la maison, veuillez noter qu'il peut y avoir quelques problèmes dans le tutoriel.
 
-Pour les personnes intéressées qui veulent utiliser le tutoriel pour le faire à la maison, veuillez noter qu'ils peuvent être quelques problèmes au tutoriel.
-Donc, le materiel nessesaire est le suivants et vous aller avoir besoin des choses suivantes pour suivre le tutoriel.
+Donc, le matériel nécessaire est le suivant et vous allez avoir besoin des choses suivantes pour suivre le tutoriel.
 
-•	Une imprimante 3D
-•	1 a 3kg de pla
-•	Le software de blambu labs
-•	Des visses (A Specifier, il ya deux types de vises, visses plastique et visse pouur le matal)
-•	Un microcontroleur (ON VAS UTILISER UN ESP32)
-•	Le software Arduino (AVEC LE SETUP DEMANDE COMME LE DRIVEUR)
-•	Des roulements (dimensions en dessous)
-•	Un tournevis
-•	Des moteur chainees (pour ce project on a utilize des FEETHECH SC SERVO lien ci dessous)
-•	Moteur de 20kg ou plus de preference
-•	De la patience
-•	Un marteaux
+• Une imprimante 3D
+• 1 à 3 kg de PLA
+• Le logiciel de Bambu Lab
+• Des vis (à spécifier, il y a deux types de vis : vis pour plastique et vis pour métal)
+• Un microcontrôleur (ON VA UTILISER UN ESP32)
+• Le logiciel Arduino (AVEC LE SETUP DEMANDÉ COMME LE DRIVER)
+• Des roulements (dimensions en dessous, ou liens)
+• Un tournevis
+• Des moteurs chaînés (pour ce projet, on a utilisé des FEETECH SC SERVO, lien ci-dessous)
+• Moteur de 20 kg ou plus de préférence
+• De la patience
+• Un marteau
 
-Les servos
+Les servos :
 https://www.robot-maker.com/shop/moteurs-et-actionneurs/287-servomoteur-scs15-287.html
-Les petits roulement (on en utilise 3 types)
+
+Les petits roulements (on en utilise 3 types) :
 https://www.amazon.de/-/en/6702-2RS-Bearings-Chrome-Plated-Double/dp/B084936KC5
 
-voici la listes des choses a imprimer et la quantite a imprimer
+Voici la liste des choses à imprimer et la quantité à imprimer :
 
-•	Support moteur coudé ×1 
-•	Support moteur ×2 
-•	Axe connecté au moteur ×2 
-•	Base inférieure ×1 
-•	Base supérieure ×1 
-•	Partie de l’axe de rotation côté épaule ×1 
-•	Protection du bras ×2 
-•	Roue dentée ×1 
-•	Support du moteur principal après l’épaule ×1 
+• Support moteur coudé ×1
+• Support moteur ×2
+• Axe connecté au moteur ×2
+• Base inférieure ×1
+• Base supérieure ×1
+• Partie de l’axe de rotation côté épaule ×1
+• Protection du bras ×2
+• Roue dentée ×1
+• Support du moteur principal après l’épaule ×1
 
-Maintenant que vous avez les pieces vous pouver commencer a assemble ce lego
-Tous d'abord on vas appeler les roulements de 1 a 3 du plus grand au plus petit.
+Maintenant que vous avez les pièces, vous pouvez commencer à assembler ce LEGO.
 
-MERCI DE LIRE TOUTE L'ETAPE AVANT DE FAIRE L'ASSEMBLAGE ET PLACER LES ROULEMENT AVANT D'ASSEMBLER TOUT CAR IL EST PREVU DE NE PAS DESSASEMBLER ET DE TENIR POUR UN LONG MOMENT.
-AUSSI MERCI DE NE PAS TROP SERRER LES PIECES EN PLA ET SI LES PIECES ENTRE PAS ENTRE ELLES, ELLES RISQUE DE DEVOIR ETRE TAPPER PAR UN MARTEAUX, ON UTILISE CELA POUR UN PLUS LONGUE
-INTEGRITE MECANIQUE ET RESISTANCES DES EFFORTS.
+Tout d'abord, on va appeler les roulements de 1 à 3, du plus grand au plus petit.
 
-ATTENTION: Quand vous metter la ptite piece enplastique qui connecte le moteur a "l'axe connecter au moteur" il faut coupler l'exes qui depasse.
-ATTENTION: Metez les roulements avant d'assenler le "BRAS".
+MERCI DE LIRE TOUTE L'ÉTAPE AVANT DE FAIRE L'ASSEMBLAGE ET DE PLACER LES ROULEMENTS AVANT D'ASSEMBLER LE TOUT, CAR IL EST PRÉVU DE NE PAS DÉSASSEMBLER ET DE TENIR PENDANT UN LONG MOMENT.
 
-•	Insérez le roulement n°3 dans la petite roue dentée. 
-•	Ensuite, placez les deux roulements n°1 dans la "base inférieure" et la "base supérieure". 
-•	Placez ensuite la grande roue dentée dans la "base supérieure", puis utilisez un marteau pour tapoter "l'axe connectee au moteur" fort afin d’insérer correctement 
-la partie de "l’axe de rotation côté épaule". Cette pièce doit venir en appui sur le roulement de la "base supérieure", de manière à former un ensemble solidement maintenu. 
-•	Après avoir réalisé l’étape précédente, positionnez la roue dentée avec le boîtier en alignant correctement les emplacements. Vissez ensuite l'autre cote du boîtier sur la structure et
-placez le moteur dans l’emplacement prévu à cet effet. Si le moteur ne s’insère pas correctement, vérifiez d’abord qu’il est bien aligné. Vous pouvez également choisir
-d’installer un moteur avant de mettre en place la "base supérieure" si cela vous semble plus pratique.
-•	Il faut visser le support d’aluminium qui est fourni avec le moteur (il est "normalement" inclus).
-•	Puis mettez le moteur dans le support du moteur principal (celui de 20 kg ou plus) après l’épaule puis mettre la tête d’aluminium sur le moteur et puis mettre le moteur et la pièce dans le support
-d’alu et visser le tout en place avec une visse de métal pour le moteur et de 2 a 4 visses pour metal pour la piece qui connecte la tete du moteur a la piece en alu fourni avec le moteur.
-• Puis sur dans le "support du moteur principal apres l'epaule" il faut placer un moteur dans la piece.
-• Et visser dans la piece "axe connecter au moteur" une piece en forme de crois (qui doit etre inclue dans le moteur "normalement") apres on connecte au moteur la piece.
-• Sur "moteur support" in faut prendre le marteaux et tapoter legrement un boulon dans un des trouts de la piece puis de l'autre cote il faudra mettre une visse.
-• Apres avoir mis le "support axe connectee au moteur" sur le moteur. 
-• Maintenant il faut mettre la "protection de l'axe bras" sur la piece et visser dans "support du moteur principal apres l'epaule" avec 4 vissse plastique de preference.
-• Puis il faut mettre "Moteur Support" dans l'emplacement prevu a cet effect dans "l'axe connecteur au moteur". Si ca entre pas tres bien n'hesiter pas a forcer un peut si sa veut pas entrer.
-• Puis alligner les trous de "la protection de l'axe du bras" et visser une visse pour ne pas depasser et coincer l'axe (la visse doit coincer "moteur support" et "axe connect au moteur" ensemble).
+AUSSI, MERCI DE NE PAS TROP SERRER LES PIÈCES EN PLA ET, SI LES PIÈCES N'ENTRENT PAS ENTRE ELLES, ELLES RISQUENT DE DEVOIR ÊTRE TAPÉES AVEC UN MARTEAU. ON UTILISE CELA POUR UNE PLUS LONGUE INTÉGRITÉ MÉCANIQUE ET UNE MEILLEURE RÉSISTANCE AUX EFFORTS.
+
+ATTENTION : Quand vous mettez la petite pièce en plastique qui connecte le moteur à "l'axe connecté au moteur", il faut coupler l'axe qui dépasse.
+
+ATTENTION : Mettez les roulements avant d'assembler le "BRAS".
+
+• Insérez le roulement n°3 dans la petite roue dentée.
+• Ensuite, placez les deux roulements n°1 dans la "base inférieure" et la "base supérieure".
+• Placez ensuite la grande roue dentée dans la "base supérieure", puis utilisez un marteau pour tapoter "l'axe connecté au moteur" assez fort afin d'insérer correctement la partie de "l’axe de rotation côté épaule". Cette pièce doit venir en appui sur le roulement de la "base supérieure", de manière à former un ensemble solidement maintenu.
+• Après avoir réalisé l’étape précédente, positionnez la roue dentée avec le boîtier en alignant correctement les emplacements. Vissez ensuite l'autre côté du boîtier sur la structure et placez le moteur dans l’emplacement prévu à cet effet. Si le moteur ne s’insère pas correctement, vérifiez d’abord qu’il est bien aligné. Vous pouvez également choisir d’installer un moteur avant de mettre en place la "base supérieure" si cela vous semble plus pratique.
+• Il faut visser le support d’aluminium qui est fourni avec le moteur (il est "normalement" inclus).
+• Puis mettez le moteur dans le support du moteur principal (celui de 20 kg ou plus) après l’épaule, puis mettre la tête d’aluminium sur le moteur et ensuite mettre le moteur et la pièce dans le support d’alu et visser le tout en place avec une vis de métal pour le moteur et de 2 à 4 vis pour métal pour la pièce qui connecte la tête du moteur à la pièce en alu fournie avec le moteur.
+• Puis, dans le "support du moteur principal après l'épaule", il faut placer un moteur dans la pièce.
+• Et visser dans la pièce "axe connecté au moteur" une pièce en forme de croix (qui doit être incluse dans le moteur "normalement"), après on connecte la pièce au moteur.
+• Sur "moteur support", il faut prendre le marteau et tapoter légèrement un boulon dans un des trous de la pièce, puis de l'autre côté il faudra mettre une vis.
+• Après avoir mis le "support axe connecté au moteur" sur le moteur.
+• Maintenant, il faut mettre la "protection de l'axe bras" sur la pièce et visser dans le "support du moteur principal après l'épaule" avec 4 vis plastique de préférence.
+• Puis il faut mettre "Moteur Support" dans l'emplacement prévu à cet effet dans "l'axe connecté au moteur". Si ça n'entre pas très bien, n'hésitez pas à forcer un peu si ça ne veut pas entrer.
+• Puis aligner les trous de "la protection de l'axe du bras" et visser une vis pour ne pas dépasser et coincer l'axe (la vis doit coincer "moteur support" et "axe connecté au moteur" ensemble).
 •
 
-(A COMPLETER ET AJOUTER LES DATAILS POUR LES ROULEMENTS (2 roulements restants)LES VISSES, ET UNE PHOTO POUR MIEUX EXPLIQUER)
+(A COMPLÉTER ET AJOUTER LES DÉTAILS POUR LES ROULEMENTS (2 ROULEMENTS RESTANTS), LES VIS, ET UNE PHOTO POUR MIEUX EXPLIQUER)
 
-
-Apres avoir fini ce tutoriel merci d'aller sur le tutoriel du code pour finir le bras. Si vous voulez. 
+Après avoir fini ce tutoriel, merci d'aller sur le tutoriel du code pour finir le bras, si vous le souhaitez.
